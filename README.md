@@ -1,1 +1,1 @@
-# geojson-to-gltf
+# GeoJSON to glTF
