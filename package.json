@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "transform GeoJSON to glTF",
   "main": "src/index.ts",
-  "scripts": {
-    "test": "jest"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AmyFoxFN/geojson-to-gltf.git"
