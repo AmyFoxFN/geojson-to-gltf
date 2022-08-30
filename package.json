@@ -2,7 +2,7 @@
   "name": "geojson-to-gltf",
   "version": "0.1.0",
   "description": "transform GeoJSON to glTF",
-  "main": "src/index.ts",
+  "main": "src/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
